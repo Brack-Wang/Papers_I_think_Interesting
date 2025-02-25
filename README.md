@@ -12,6 +12,7 @@
 
 [TOWARDS HIERARCHICAL RECTIFIED FLOW](https://arxiv.org/pdf/2502.17436)
 - A method for efficiently training generative model.
+- Research in a theoretical way on 2D general images.
 
 [CAR-LOAM: Color-Assisted Robust LiDAR Odometry and Mapping](https://arxiv.org/pdf/2502.17249)
 - Lidar based SLAM is longlasting and mature task.
