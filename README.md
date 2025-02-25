@@ -10,6 +10,9 @@
 - It claim to do multi-task including depth estimation, segmentation as a foundation model. With finetune on 1% dataset, it could achieve good performance on OOD data.
 - Wait for the code publish.
 
+[DIS-CO: Discovering Copyrighted Content in VLMs Training Data](https://arxiv.org/pdf/2502.17358)
+- Detect whether synthesis content of VLM infringe copyright of testing data.
+
 [TOWARDS HIERARCHICAL RECTIFIED FLOW](https://arxiv.org/pdf/2502.17436)
 - A method for efficiently training generative model.
 - Research in a theoretical way on 2D general images.
