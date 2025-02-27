@@ -3,10 +3,23 @@
 
 ## 2/27 ranking
 
+[Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?](https://arxiv.org/pdf/2502.19318)
+- Good story, good mathmatics. Claiming 3DGS is efficient but overall approximate while volumetric rendering is accurate.
+- Volume rendering on 3DGS again. Guess it code bsed on 3DGS, introducing the Extinction Coefficient of NeRF inside.
+- Wait for read in detail.
+
+[Distill Any Depth: Distillation Creates a Stronger Monocular Depth Estimator](https://arxiv.org/pdf/2502.19204)
+- Distillation consider global and local depth, achieving result simiar and a bit better than DepthAnything2.
+- Wondering efficiency and the implementation Simplicity.
+
 [EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis](https://arxiv.org/abs/2410.01804)
 - Considering the geometry length inside the GS using volume representation. Similar idea with our X-Field(we think from property of X-Ray not volmue, but achieve similar thought). A trend of utilizing volume is surged. It will soon achieve the ideal SOTA.
 - The demo result seems to reconstruct large scene quickly, wondering the memory comsuption.
 
+[EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region](https://arxiv.org/pdf/2502.19260)
+- Datsset contains over 30,000 frames from a dash-camera perspective, along with 570,000 annotated bounding boxes, covering approximately 150 kilometers of driving routes.
+- The EMT dataset supports three primary tasks: tracking, trajectory forecasting and intention prediction.
+- Potentially used for test tracking.
 
 **other**
 
