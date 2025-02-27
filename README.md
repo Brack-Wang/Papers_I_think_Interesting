@@ -1,6 +1,33 @@
 # Papers_I_think_Interesting
 
-## 2/256 ranking
+
+## 2/27 ranking
+
+[EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis](https://arxiv.org/abs/2410.01804)
+- Considering the geometry length inside the GS using volume representation. Similar idea with our X-Field(we think from property of X-Ray not volmue, but achieve similar thought). A trend of utilizing volume is surged. It will soon achieve the ideal SOTA.
+- The demo result seems to reconstruct large scene quickly, wondering the memory comsuption.
+
+
+**other**
+[rendernet](https://rendernet.ai/)
+- Given image and music create movie, changing dress, the demo looks good and attracting. But I do not want to pay for trying.
+
+
+**Opinion**
+Current Trend: AI models for images/videos mostly use diffusion, while text models prefer autoregression.
+```
+Information Structure:
+- Text is a sequence where each word depends on the previous one, making autoregression more natural.
+- Images/videos have spatial and temporal patterns, which diffusion models handle well by refining details step by step.
+
+Noise and Perception:
+- Humans see images holistically, so diffusion can gradually remove noise to restore details.
+- Text errors are discrete (e.g., typos, grammar issues), making noise removal less effective.
+
+```
+
+
+## 2/26 ranking
 CVPR25 not published last night, waiting for it.
 
 [UNIGS: UNIFIED LANGUAGE-IMAGE-3D PRETRAINING WITH GAUSSIAN SPLATTING](https://arxiv.org/pdf/2502.17860)
@@ -13,13 +40,6 @@ CVPR25 not published last night, waiting for it.
 - The dataset comprises 2362 cases, including 890 MRI-CT pairs and 1472 CBCT-CT pairs.
 - If they are 3D volume, its a big dataset in medical images.
 
-
-[HRR: Hierarchical Retrospection Refinement for Generated Image Detection](https://arxiv.org/pdf/2502.17862)
-- Generation based method for detection
-- As researcher, we need to choose an area which we could continue to explore for years, with impactful, with large work. In 2018 people are crazy on object detection, now YOLO is v11 now and believed detection is not a complex task now. Thanks all works on it.
-
-[Self-Supervised Data Generation for Precision Agriculture: Blending Simulated Environments with Real Imagery](https://arxiv.org/pdf/2502.18320)
-- It's new to me that agriculture also has the scarcity in labelled data. The proposed method do not have too much novelty. But it occurs me that many area in real life are scarcity in labelled data, from biology, to agriculture.
 
 
 ## 2/25 ranking
@@ -34,16 +54,8 @@ CVPR25 not published last night, waiting for it.
 [DIS-CO: Discovering Copyrighted Content in VLMs Training Data](https://arxiv.org/pdf/2502.17358)
 - Detect whether synthesis content of VLM infringe copyright of testing data.
 
-[TOWARDS HIERARCHICAL RECTIFIED FLOW](https://arxiv.org/pdf/2502.17436)
-- A method for efficiently training generative model.
-- Research in a theoretical way on 2D general images.
-
 [CAR-LOAM: Color-Assisted Robust LiDAR Odometry and Mapping](https://arxiv.org/pdf/2502.17249)
 - Lidar based SLAM is longlasting and mature task.
 - It occur to me that the dust3r representation is a kind of lidar（Flash Lidar， Solid-State Lidar， Directed Lidar）. Could inspired by lidar SLAM methods.
 
-[RELICT: A Replica Detection Framework for Medical Image Generation](https://arxiv.org/pdf/2502.17360)
-- As the person did medical generation, I do not like this task. But It values, protecting patients' privacy is one of reason why synthesis data required.
 
-[Improving Monocular Visual-Inertial Initialization with Structureless Visual-Inertial Bundle Adjustment](https://arxiv.org/pdf/2502.16598)
-- Monocular Visual + inertial odometry for localization, usually no odometry in 3D tasks but could be saved.
