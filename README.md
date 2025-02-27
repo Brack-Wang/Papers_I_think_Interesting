@@ -9,11 +9,13 @@
 
 
 **other**
+
 [rendernet](https://rendernet.ai/)
 - Given image and music create movie, changing dress, the demo looks good and attracting. But I do not want to pay for trying.
 
 
-**Opinion**
+**Opinions**
+
 Current Trend: AI models for images/videos mostly use diffusion, while text models prefer autoregression.
 ```
 Information Structure:
