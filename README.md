@@ -19,6 +19,10 @@
 - Generate reaction of boxing, the demo is fun.
 - Based on diffusion model with masked autoencoder, considering the past history to predict.
 
+[No Parameters, No Problem: 3D Gaussian Splatting without Camera Intrinsics and Extrinsics](https://arxiv.org/pdf/2502.19800)
+- Seems a dust3r(ViT from image to pointmap)+3DGS with some technique design.
+- The name is good
+
 ## 2/27 ranking
 
 [Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?](https://arxiv.org/pdf/2502.19318)
