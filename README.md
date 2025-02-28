@@ -1,6 +1,22 @@
 # Papers_I_think_Interesting
 
 
+## 2/28 ranking
+
+[Do computer vision foundation models learn the low-level characteristics of the human visual system?](https://arxiv.org/pdf/2502.20256)
+- Interesting work analysing the Vision Foundation models and human visual.
+- Some conclusion below
+  | Term                     | Explanation | Research Findings |
+|--------------------------|-------------|-------------------|
+| **Contrast Detection Differences** | Computer vision models have lower sensitivity to low-contrast details and show irregular responses across different spatial frequencies. | Computer vision models are less sensitive to low contrast detection and are not as stable as human vision. |
+| **Contrast Masking Similarity** | In complex backgrounds, the visibility of target objects decreases, and both human and computer vision exhibit similar behavior. | The masking characteristics of DINOv2 and OpenCLIP are closely aligned with human vision. |
+| **Contrast Constancy** | The human visual system maintains stable contrast perception under different lighting conditions and object sizes, while computer vision models are less stable in low-frequency regions. | DINOv2 and OpenCLIP perform well in high-frequency regions, but overall still differ from human vision. |
+
+
+[Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation](https://zju3dv.github.io/ready_to_react/)
+- Generate reaction of boxing, the demo is fun.
+- Based on diffusion model with masked autoencoder, considering the past history to predict.
+
 ## 2/27 ranking
 
 [Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?](https://arxiv.org/pdf/2502.19318)
