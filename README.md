@@ -6,6 +6,7 @@
 [Do computer vision foundation models learn the low-level characteristics of the human visual system?](https://arxiv.org/pdf/2502.20256)
 - Interesting work analysing the Vision Foundation models and human visual.
 - Some conclusion below
+  
   | Term                     | Explanation | Research Findings |
 |--------------------------|-------------|-------------------|
 | **Contrast Detection Differences** | Computer vision models have lower sensitivity to low-contrast details and show irregular responses across different spatial frequencies. | Computer vision models are less sensitive to low contrast detection and are not as stable as human vision. |
