@@ -7,8 +7,9 @@
 - Interesting work analysing the Vision Foundation models and human visual.
 - Some conclusion below
   
-  | Term                     | Explanation | Research Findings |
-|--------------------------|-------------|-------------------|
+
+| Term                           | Explanation  | Research Findings  |
+|--------------------------------|-------------|-------------------|
 | **Contrast Detection Differences** | Computer vision models have lower sensitivity to low-contrast details and show irregular responses across different spatial frequencies. | Computer vision models are less sensitive to low contrast detection and are not as stable as human vision. |
 | **Contrast Masking Similarity** | In complex backgrounds, the visibility of target objects decreases, and both human and computer vision exhibit similar behavior. | The masking characteristics of DINOv2 and OpenCLIP are closely aligned with human vision. |
 | **Contrast Constancy** | The human visual system maintains stable contrast perception under different lighting conditions and object sizes, while computer vision models are less stable in low-frequency regions. | DINOv2 and OpenCLIP perform well in high-frequency regions, but overall still differ from human vision. |
