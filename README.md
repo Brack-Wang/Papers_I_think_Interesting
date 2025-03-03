@@ -1,6 +1,16 @@
 # Papers_I_think_Interesting
 
 
+## 3/3 ranking
+
+
+Works focus on train generation model with less resource
+-[How far can we go with ImageNet for Text-to-Image generation?](https://arxiv.org/pdf/2502.21318)
+-[Training-free and Adaptive Sparse Attention for Efficient Long Video Generation](https://arxiv.org/pdf/2502.21079)
+
+[CADDreamer: CAD object Generation from Single-view Images](https://arxiv.org/pdf/2502.20732)
+
+
 ## 2/28 ranking
 
 [Do computer vision foundation models learn the low-level characteristics of the human visual system?](https://arxiv.org/pdf/2502.20256)
