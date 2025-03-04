@@ -1,5 +1,21 @@
 # Papers_I_think_Interesting
 
+# 3/4 ranking
+
+[DIFIX3D+: Improving 3D Reconstructions with Single-Step Diffusion Models](https://arxiv.org/pdf/2503.01774)
+- Reconstrution work should be assisted with the generative model, this work did it.
+
+
+[CAT-3DGS: A CONTEXT-ADAPTIVE TRIPLANE APPROACH TO RATE-DISTORTION-OPTIMIZED 3DGS
+COMPRESSION](https://arxiv.org/pdf/2503.00357)
+
+
+[MUSt3R: Multi-view Network for Stereo 3D Reconstruction](https://arxiv.org/pdf/2503.01661)
+- Following up work of dust3r
+
+[FGS-SLAM: Fourier-based Gaussian Splatting for Real-time SLAM with
+Sparse and Dense Map Fusion](https://arxiv.org/pdf/2503.01109)
+- Fuse point clouds for slam
 
 ## 3/3 ranking
 
