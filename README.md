@@ -1,5 +1,28 @@
 # Papers_I_think_Interesting
 
+# 3/7 ranking
+
+[FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video](https://arxiv.org/pdf/2503.04720)
+- Reconstructing and predicting 3D fluid appearance and velocity from a single video
+- From single image to multi-view image, to 4D reconstruction, to prediction
+
+[EgoLife: Towards Egocentric Life Assistan](https://arxiv.org/pdf/2503.03803)
+
+[Task-Agnostic Attacks Against Vision Foundation Models](https://arxiv.org/pdf/2503.03842)
+
+[Surgical Gaussian Surfels: Highly Accurate
+Real-time Surgical Scene Rendering](https://arxiv.org/pdf/2503.04079)
+- The work I planned to do. Curious how they did
+
+[PLMP – Point-Line Minimal Problems for Projective SfM](https://arxiv.org/pdf/2503.04351)
+
+
+[S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting](https://arxiv.org/pdf/2503.04314)
+
+[Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation](https://arxiv.org/pdf/2503.04718)
+- Unsupervied method for scne flow estimation
+
+
 # 3/4 ranking
 
 [DIFIX3D+: Improving 3D Reconstructions with Single-Step Diffusion Models](https://arxiv.org/pdf/2503.01774)
