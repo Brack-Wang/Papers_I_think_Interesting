@@ -1,5 +1,24 @@
 # Papers_I_think_Interesting
 
+# 3/12 ranking
+
+[Dynamic Scene Reconstruction: Recent Advance in Real-time Rendering and Streaming](https://arxiv.org/pdf/2503.08166)
+- An review
+
+[nnInteractive: Redefining 3D Promptable Segmentation](https://arxiv.org/pdf/2503.08373)
+- Assit expert label medical data with diverse prompt. It's valuable.
+
+[S3R-GS: Streamlining the Pipeline for Large-Scale Street Scene Reconstruction](https://arxiv.org/pdf/2503.08217)
+
+[RayFlow: Instance-Aware Diffusion Acceleration via Adaptive Flow Trajectories](https://arxiv.org/pdf/2503.07699)
+
+[Fixing the RANSAC Stopping Criterion](https://arxiv.org/pdf/2503.07829)
+- Potentially used in long term localization
+
+# 3/8-3/11
+Busy days of ICCV submission and refilling.
+
+
 # 3/7 ranking
 
 [FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video](https://arxiv.org/pdf/2503.04720)
