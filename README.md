@@ -1,5 +1,23 @@
 # Papers_I_think_Interesting
 
+
+# 3/13
+
+[Motion Blender Gaussian Splatting for Dynamic Reconstruction](https://arxiv.org/pdf/2503.09040)
+- Motion based reconstruction for Dynamic Reconstruction
+- Based on Shape of motion (wang qianqian), I had similar idea, will read in detail.
+
+[Representing 3D Shapes With 64 Latent Vectors for 3D Diffusion Models](https://arxiv.org/pdf/2503.08737)
+- It occurs to me that: 3D volume generation could use tri-plane, which is still underexplored in the medical imaging area.
+
+[SDD-4DGS: Static-Dynamic Aware Decoupling in Gaussian Splatting for 4D Scene Reconstruction](https://arxiv.org/pdf/2503.09332)
+- A 4DGS based on 3DGS mapping to improve depth estimation.
+- A wired idea comes to me: is the 4D recosntruction really necessary? May be not, whats the downstream task and application? Besides, It has strong correlation with 3DGS and can't get it out as independent task. The novelty and influence may continue go down.
+
+[Monte Carlo Diffusion for Generalizable Learning-Based RANSAC](https://arxiv.org/pdf/2503.09410)
+- People have a bit more attention on RANSAC, which is a bit surprise to me. While it has the potential applicaiton on reconstrucion.
+
+
 # 3/12 ranking
 
 [Dynamic Scene Reconstruction: Recent Advance in Real-time Rendering and Streaming](https://arxiv.org/pdf/2503.08166)
