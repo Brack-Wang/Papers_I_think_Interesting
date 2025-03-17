@@ -1,6 +1,27 @@
 # Papers_I_think_Interesting
 
 
+# 3/17
+[VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/pdf/2503.11651)
+- Foundation model for multi task of 3D. Good work!
+- https://github.com/facebookresearch/vggt
+
+[Seeing and Seeing Through the Glass:
+Real and Synthetic Data for Multi-Layer Depth Estimation](https://arxiv.org/pdf/2503.11633)
+-  Transparent object benchmark
+
+[Direction-Aware Diagonal Autoregressive Image Generation](https://arxiv.org/pdf/2503.11129)
+
+[Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation](https://arxiv.org/pdf/2503.11652)
+- Work good for AR VR headset
+
+[NEURONS: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction](https://arxiv.org/pdf/2503.11167)
+- Mainly because the task of fMRI signal from brain to video is interesting.
+
+[COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation](https://arxiv.org/pdf/2503.11439)
+- Achieve the instance segmentation without gt, based on USS and SAM with distillation.
+
+
 # 3/13
 
 [Motion Blender Gaussian Splatting for Dynamic Reconstruction](https://arxiv.org/pdf/2503.09040)
