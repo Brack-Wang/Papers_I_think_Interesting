@@ -13,6 +13,26 @@
 - The task I thought for MICCAI.
 
 
+
+# 3/18
+
+[Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/pdf/2503.12605)
+- Not familiar but seems like a huge topic with ambitous
+
+[SatDepth: A Novel Dataset for Satellite Image Matching](https://arxiv.org/pdf/2503.12706)
+- A dataset for Satellite Image Matching
+
+[Deblur Gaussian Splatting SLAM](https://arxiv.org/pdf/2503.12572)
+- Seems another track to do the RGB-SLAM, could take a look on how it estimate camera pose.
+- Deblur image though 3DGS and SLAM
+
+[VRsketch2Gaussian: 3D VR Sketch Guided 3D Object Generation with Gaussian Splatting](https://arxiv.org/pdf/2503.12383)
+- From VR scratcg to 3D object, the task is novel and interesting.
+
+
+[Point Cloud Based Scene Segmentation: A Survey](https://arxiv.org/pdf/2503.12595)
+- A survey
+
 # 3/17
 [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/pdf/2503.11651)
 - Foundation model for multi task of 3D. Good work!
