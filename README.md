@@ -1,5 +1,17 @@
 # Papers_I_think_Interesting
 
+# 3/19
+
+[Advances in 4D Generation: A Survey](https://arxiv.org/pdf/2503.14501)
+- Good, a survey in 4D generation
+
+[Impossible Videos](https://arxiv.org/pdf/2503.14378)
+- Interseting task, showing impossible videos. Indicating the data imbalance in the visual generative models.
+
+
+[3D Densification for Multi-Map Monocular VSLAM in Endoscopy](https://arxiv.org/pdf/2503.14346)
+- The task I thought for MICCAI.
+
 
 # 3/17
 [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/pdf/2503.11651)
