@@ -1,5 +1,28 @@
 # Papers_I_think_Interesting
 
+
+# 3/20
+[DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning](https://arxiv.org/pdf/2503.15265)
+- The work is amazing, targeting on point cloud to 3D mesh through 2 stages: course mesh creation and refine through RL.
+- I wonder the domain range of this work
+- Further work could continue on image to 3D mesh, or large scene 3D mesh.
+
+[Learn Your Scales: Towards Scale-Consistent Generative Novel View Synthesis](https://arxiv.org/pdf/2503.15412)
+- There are sacle ambigous problem in 3D tasks, foundation modles of DUST3R, VGGT normalize all information, 3D NVS like 3DGS also normalize. We may need to take a close look on scale problem instead of simply normalize.
+
+[Fractal Generative Models](https://arxiv.org/list/cs.CV/recent)
+- Divide and conquer to generate image with MAR, decrease the computation resource and enhance stability
+- Could follow this track to synthesis high resolution 3D volume image by extending it to 3D.
+
+[LEGION: Learning to Ground and Explain for Synthetic Image Detection](https://opendatalab.github.io/LEGION/)
+- A synthesis dataset for the detection of synthesis data and improve the generation
+
+[Learning-based 3D Reconstruction in Autonomous Driving: A Comprehensive Survey](https://arxiv.org/pdf/2503.14537)
+- A survey
+
+[World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child](https://arxiv.org/pdf/2503.15168)
+- Propose of building world model to empower AI with logic inference.
+
 # 3/19
 
 [Advances in 4D Generation: A Survey](https://arxiv.org/pdf/2503.14501)
