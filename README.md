@@ -1,5 +1,20 @@
 # Papers_I_think_Interesting
+# 3/21
 
+[M3: 3D-SPATIAL MULTIMODAL MEMOR](https://arxiv.org/pdf/2503.16413)
+- Directly related, need to read
+
+  [Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction](https://arxiv.org/pdf/2503.16318)
+  - Directly related
+
+[OffsetOPT: Explicit Surface Reconstruction without Normal](https://arxiv.org/pdf/2503.15763)
+- Another work for surface reconstruction
+
+[Rapid patient-specific neural networks for intraoperative X-ray to volume registration](https://arxiv.org/pdf/2503.16309)
+-X-ray Registration
+
+[1000+ FPS 4D Gaussian Splatting for Dynamic Scene Renderin](https://arxiv.org/pdf/2503.16422)
+- Fast
 
 # 3/20
 [DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning](https://arxiv.org/pdf/2503.15265)
