@@ -11,7 +11,7 @@
 - Another work for surface reconstruction
 
 [Rapid patient-specific neural networks for intraoperative X-ray to volume registration](https://arxiv.org/pdf/2503.16309)
--X-ray Registration
+- X-ray Registration
 
 [1000+ FPS 4D Gaussian Splatting for Dynamic Scene Renderin](https://arxiv.org/pdf/2503.16422)
 - Fast
