@@ -4,8 +4,8 @@
 [M3: 3D-SPATIAL MULTIMODAL MEMOR](https://arxiv.org/pdf/2503.16413)
 - Directly related, need to read
 
-  [Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction](https://arxiv.org/pdf/2503.16318)
-  - Directly related
+[Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction](https://arxiv.org/pdf/2503.16318)
+- Directly related
 
 [OffsetOPT: Explicit Surface Reconstruction without Normal](https://arxiv.org/pdf/2503.15763)
 - Another work for surface reconstruction
