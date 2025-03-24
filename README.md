@@ -1,4 +1,24 @@
 # Papers_I_think_Interesting
+
+
+# 3/24
+
+[A Recipe for Generating 3D Worlds From a Single Image](https://arxiv.org/pdf/2503.16611)
+- A pipeline from single image to 3D. A combination, but a good start point. Expecting one day one single image of real world to 3D.
+
+[4D Gaussian Splatting SLAM](https://arxiv.org/pdf/2503.16710)
+- The idea of seperate dynamic and static is aligned with mine. Using static scene to reconstruct, using keypoint to present dynamic.
+- The visualization is good.
+- The image of paper is not SVG and there is no camera trace visualization since its SLAM work.
+
+[Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting](https://arxiv.org/pdf/2503.16979)
+- Using the anchor point to represent dynamic scene is similar like the above one. Might be useful but no more novel seems since this point.
+
+
+[Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors](https://arxiv.org/pdf/2503.17316)
+- Directy related
+
+
 # 3/21
 
 [M3: 3D-SPATIAL MULTIMODAL MEMOR](https://arxiv.org/pdf/2503.16413)
