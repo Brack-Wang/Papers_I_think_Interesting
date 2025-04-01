@@ -1,6 +1,36 @@
 # Papers_I_think_Interesting
 
 
+# 4/1
+[AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](https://arxiv.org/pdf/2503.23282)
+- Directly related, read in details
+
+[Free 360 :
+Layered Gaussian Splatting for Unbounded 360-Degree
+View Synthesis from Extremely Sparse and Unposed Views](https://zju3dv.github.io/free360/)
+
+[Zero-shot Domain Generalization of Foundational
+Models for 3D Medical Image Segmentation:
+An Experimental Study](https://arxiv.org/pdf/2503.22862)
+- Survey on 3D segmentation on medical image based on foundation model
+
+[LSNet: See Large, Focus Small](https://arxiv.org/pdf/2503.23135)
+- A network layer following eye's imaging principle with rods and cones distribution.
+
+[NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for
+Compact 3D Representations](https://arxiv.org/pdf/2503.23162)
+
+[Learning Bijective Surface Parameterization for Inferring Signed Distance
+Functions from Sparse Point Clouds with Grid Deformation](https://arxiv.org/pdf/2503.23670)
+- From point cloud to SDFs, its influencial task and could be the downstream task of imge to 3D.
+- Work from professor [Yushen Liu](https://yushen-liu.github.io/index_cn.html), who focus on geometry construction.
+
+[OpenDriveVLA: Towards End-to-end Autonomous Driving with
+Large Vision Language Action Model](https://arxiv.org/pdf/2503.23463)
+- End to end, vla, a good setting.is it the trend now?
+- From the demo, the navigation is not stable enought.
+
+
 # 3/24
 
 [A Recipe for Generating 3D Worlds From a Single Image](https://arxiv.org/pdf/2503.16611)
