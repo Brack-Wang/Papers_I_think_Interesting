@@ -1,5 +1,17 @@
 # Papers_I_think_Interesting
+# 4/9
+[D2USt3R: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes](https://arxiv.org/pdf/2504.06264)
+- work directly related
 
+[Flash Sculptor: Modular 3D Worlds from Objects](https://arxiv.org/pdf/2504.06178)
+- A fun work working on edit 3D object
+
+[3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS](https://arxiv.org/pdf/2504.04294)
+- Focus on optimize camera pose, improve is not too much, but still value.
+
+[BrainMRDiff: A Diffusion Model for Anatomically Consistent
+Brain MRI Synthesis](https://arxiv.org/pdf/2504.04532)
+- Considering brain structure to synthesis
 
 # 4/1
 [AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](https://arxiv.org/pdf/2503.23282)
