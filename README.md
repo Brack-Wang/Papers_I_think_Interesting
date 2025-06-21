@@ -1,4 +1,20 @@
 # Papers_I_think_Interesting
+
+
+# 6/21
+[Hunyuan3D 2.1: From Images to High-Fidelity 3D
+Assets with Production-Ready PBR Material](https://arxiv.org/pdf/2506.15442)
+
+
+[MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System](https://arxiv.org/pdf/2506.15402)
+
+[Particle-Grid Neural Dynamics for Learning
+Deformable Object Models from RGB-D Videos](https://arxiv.org/pdf/2506.15680)
+
+[Peering into the Unknown: Active View Selection
+with Neural Uncertainty Maps for 3D Reconstruction](https://arxiv.org/pdf/2506.14856)
+
+
 # 4/9
 [D2USt3R: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes](https://arxiv.org/pdf/2504.06264)
 - work directly related
