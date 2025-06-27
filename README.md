@@ -1,5 +1,9 @@
 # Papers_I_think_Interesting
 
+[StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation](https://arxiv.org/pdf/2506.20756)
+- Stereo Matching + Diffusion
+
+  
 
 # 6/21
 [Hunyuan3D 2.1: From Images to High-Fidelity 3D
